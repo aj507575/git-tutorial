@@ -1,2 +1,2 @@
 console.log("config.js");
-console.log("version real 2");
+console.log("version real 3");
